@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou um entusiasta de tecnologia. Adoro aprender sobre o processo de desenvolvimento de software, explorar novas ideias e colaborar em projetos interessantes.
 
-- 🔭 Atualmente estou trabalhando em projetos pessoas para aprimorar minhas habilidades
+- 🔭 Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades
 - 🌱 Estou aprendendo Java | Spring
 
 ## Conexões
